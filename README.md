@@ -66,5 +66,11 @@ Results:
 ![line](https://github.com/JaniceBgithub/PyBer_Analysis/blob/master/analysis/Fig10.png)
 
 
+## Recommendations
 
+1. Driver count and portion of rides from rural regions are extremely low.  The rural region tends to have higher-value rides.  Therfore PyBer may want to market more to the rural areas and increase drivers and riders. 
+
+2. There may be too many drivers in the urban area - they make up 87% of drivers but 63% of fares.  PyBer may want to limit drivers in some urban cities so that the existing drivers can make more money. 
+
+3. PyBer may want to consider reducing rural city fares to encourage more riders.
 
