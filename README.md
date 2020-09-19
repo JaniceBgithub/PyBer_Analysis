@@ -31,6 +31,7 @@ Results:
 Results: 
 - Rural cities have a higher average fare and a much wider range in the data
 
+
 ### Driver count by city type (boxplot)
 
 ![driver_count](https://github.com/JaniceBgithub/PyBer_Analysis/blob/master/analysis/Fig4.png)
