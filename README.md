@@ -2,7 +2,7 @@
 
 ## Overview of the Analysis
 
-Pandas and matplotlib was used to create a dataframe summarizing ride sharing information by city type. A multiple line graph was cdreated showing the total weekly fares for each cicty type. 
+Pandas and matplotlib were used to create a dataframe summarizing ride sharing information by city type. A multiple line graph was created showing the total weekly fares for each city type. 
 
 ## Results
 
