@@ -64,7 +64,7 @@ Results:
 
 ### Fares by city type with time (line chart)
 
-![line](https://github.com/JaniceBgithub/PyBer_Analysis/blob/master/analysis/Fig10.png)
+![line](https://github.com/JaniceBgithub/PyBer_Analysis/blob/master/analysis/Fig9.png)
 
 
 ## Recommendations
